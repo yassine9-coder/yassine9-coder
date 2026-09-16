@@ -15,6 +15,13 @@
 - 🐛 I enjoy debugging as much as building — most of my project READMEs are half root-cause analysis
 - 📄 **AWS Certified Cloud Practitioner**
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ### 🛠 Tech Stack
