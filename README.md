@@ -54,8 +54,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="www.linkedin.com/in/yassine-ben-afia" alt="Yassine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassine9-coder&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassine9-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Yassine's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassine9-coder&layout=compact&theme=dark" alt="Top Languages" width="49%" />
 </p>
 
 ---
