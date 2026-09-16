@@ -44,6 +44,26 @@
 
 ---
 
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yassine9-coder/yassine9-coder/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassine9-coder&show_icons=true&theme=dark" alt="Yassine's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassine9-coder&layout=compact&theme=dark&hide=html,css,php" alt="Top Languages" width="48%" />
+</p>
+
+---
 
 ### 📬 Let's Connect
 
