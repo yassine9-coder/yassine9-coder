@@ -56,12 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yassine9-coder&show_icons=true&theme=dark" alt="Yassine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yassine9-coder&layout=compact&theme=dark&hide=html,css,php" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
